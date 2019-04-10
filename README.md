@@ -42,10 +42,6 @@ References (for Hungarian Algorithm):
     - https://theory.stanford.edu/~tim/w16/l/l5.pdf
     - https://www.cse.ust.hk/~golin/COMP572/Notes/Matching.pdf
     - There is some very good articles in wikipedia also.
-    
-Some Example Results:
-
-    ![](img/dali2.jpg)
 
 
 
